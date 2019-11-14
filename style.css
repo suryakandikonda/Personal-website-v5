@@ -1,0 +1,48 @@
+*{
+	
+}
+
+body{
+
+	font-family: 'Harmattan', sans-serif;
+}
+
+.TitleDiv{
+	text-align: center;
+	margin-top: 20%;
+}
+
+.TitleText{
+	text-align: center;
+}
+
+
+
+.TitleSocialImages{
+	width: 40px;
+	height: 40px;
+}
+
+#TitleQuoteText{
+	font-family: 'Dancing Script', cursive;
+}
+
+
+.EducationDiv{
+	margin-top: 5%;
+}
+
+.SkillsDiv{
+	text-align: center;
+	margin-top: 5%;
+}
+
+.ProjectsDiv{
+	margin-top: 5%;
+}
+
+
+.AchievementsDiv{
+	margin-top: 5%;
+}
+
